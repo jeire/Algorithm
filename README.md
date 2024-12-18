@@ -1,4 +1,4 @@
-# 📗 RepositoryMakingStudy
+# 📗 Algorithm
  study for creating new repository
 
 ## 📄 프로젝트 소개
