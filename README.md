@@ -7,7 +7,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## 🕐 개발 기간
 2024년 12월 17일 ~
 
-## 👪 업무 분담
+## 👪 개발자
 - 이원준 : Algorithm 공부 및 문제 풀이
 
 ## 💻 개발 환경
