@@ -2,11 +2,6 @@ using System;
 
 public class Solution {
     public int solution(int n) {
-        for (int i = 1; (i * i) <= n; i++)
-        {
-            if (i * i == n)
-                return 1;
-        }
-        return 2;
+        return Math.Sqrt(n) % 1 == 0 ? 1 : 2;
     }
 }
