@@ -12,6 +12,8 @@
 |[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|arithmetic||||
 |[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|arithmetic||||
 |[주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)|arithmetic|array|||
+|[삼각형의 완성조건 2](https://school.programmers.co.kr/learn/courses/30/lessons/120868)|arithmetic|array||triangle|
+|[공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)|arithmetic|array||sequence|
 |[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|comparison||||
 |[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|arithmetic, shift|||power|
 |[피자 나눠 먹기 1](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|arithmetic, conditional||||
@@ -39,6 +41,4 @@
 |[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|iteration|array|||
 |[7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|iteration|array|||
 |[소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)|iteration|||prime factorization|
-|[공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)|arithmetic|array||sequence|
-|[삼각형의 완성조건 2](https://school.programmers.co.kr/learn/courses/30/lessons/120868)|arithmetic|array||triangle|
 |[구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)|||||
