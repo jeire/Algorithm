@@ -41,4 +41,9 @@
 |[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|iteration|array|||
 |[7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|iteration|array|||
 |[소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)|iteration|||prime factorization|
+|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|iteration|||divisor|
 |[구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)|||||
+|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|iteration|string|||
+|[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|iteration|string|||
+
+||||||
