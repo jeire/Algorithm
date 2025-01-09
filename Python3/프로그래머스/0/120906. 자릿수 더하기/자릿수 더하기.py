@@ -1,6 +1,6 @@
 def solution(n):
-    answer = 0
-    while n > 0:
-        answer += n % 10
-        n //= 10
+    answer = 0            # 초기화
+    while n > 0:          # 계속 10으로 나누면서 나머지를 더하다보면 모든 자릿수를 더한 뒤 0이 된다.
+        answer += n % 10  # 자릿수를 맨 뒤에서부터 더하기 위해 10으로 나누면 맨 뒷자리만 남는다.
+        n //= 10          # 맨 뒷자리를 없애려면 10으로 나눈 몫을 구하면 된다.
     return answer
