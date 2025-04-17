@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int n, x, a[10005];
 int main(void) {
+  int n, x, a[10005];
   ios::sync_with_stdio(0);
   cin.tie(0);
   cin >> n >> x;
