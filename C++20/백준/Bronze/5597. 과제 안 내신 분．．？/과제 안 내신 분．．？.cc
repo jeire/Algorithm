@@ -7,10 +7,6 @@ int main()
     cin.tie(0);
     int i;
     int iArr[31]{};
-    /*for (int x = 0; x <= 31; x++)
-    {
-        iArr[x] = 0;
-    }*/
 
     for (int x = 0; x < 28; x++)
     {
