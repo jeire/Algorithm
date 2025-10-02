@@ -1,20 +1,18 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
 using namespace std;
 
 int main()
 {
-    ios_base::sync_with_stdio(0);
+    ios::sync_with_stdio(0);
     cin.tie(0);
-    int m, a = 0, b = 0;
+
+    int num[9];
     for (int i = 0; i < 9; i++)
     {
-        cin >> m;
-        if (m > a)
-        {
-            a = m;
-            b = i + 1;
-        }
+        cin >> num[i];
     }
-    cout << a << "\n";
-    cout << b << "\n";
+    cout << *max_element(num, num + 9) << "\n";
+    cout << max_element(num, num + 9) - num + 1;
+    return 0;
 }
