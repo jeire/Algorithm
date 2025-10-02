@@ -24,7 +24,7 @@ int main()
     else
     {
         cout << b - a - 1 << "\n";
-        for (int i = a + 1; i < b; i++)
+        for (long long i = a + 1; i < b; i++)
         {
             cout << i << " ";
         }
