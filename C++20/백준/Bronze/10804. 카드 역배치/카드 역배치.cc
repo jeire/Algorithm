@@ -3,14 +3,6 @@ using namespace std;
 
 int card[21];
 
-void reverse(int a, int b)
-{
-    while (a < b)
-    {
-        swap(card[a++], card[b--]);
-    }
-}
-
 int main()
 {
     ios::sync_with_stdio(0);
@@ -25,7 +17,9 @@ int main()
     {
         int a, b;
         cin >> a >> b;
-        reverse(a, b);
+
+        // STL reverse 함수를 이용한 바킹독님 풀이
+        reverse(card + a, card + b + 1);
     }
 
     for (int i = 1; i < 21; i++)
